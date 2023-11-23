@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data science**
 
-- 💬 Ask me about **python and R**
+- 💬 Ask me about **Python and R**
 
 - 📫 How to reach me **eric.narro@gmail.com**
 
