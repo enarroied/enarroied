@@ -47,7 +47,7 @@ I enjoy learning new programming languages and tools, and staying up-to-date wit
 
 #### Python Libraries and Frameworks
 
-The following non-exhaustive list shows some libraries I've use for some projects:
+The following non-exhaustive list shows some libraries I've used for some projects:
 
 | Tasks| Libraries |
 |-----| ----|
@@ -57,8 +57,7 @@ The following non-exhaustive list shows some libraries I've use for some project
 | Geospatial analysis| ![GeoPandas Badge](https://img.shields.io/badge/Geopandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white) ![Folium Badge](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white) ![Shapely Badge](https://img.shields.io/badge/Shapely-f5f5f5?style=for-the-badge) ![Fiona Badge](https://img.shields.io/badge/Fiona-f5f5f5?style=for-the-badge) |   
 | ML, DeepLearning, LLM apps| ![SK Learn Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Langchain Badge](https://img.shields.io/badge/Langchain-darkgreen?style=for-the-badge) ![Hugging Face Badge](https://img.shields.io/badge/🤗-Transformers-yellow?style=for-the-badge) |   
 | Application builders| ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Taipy Badge](https://img.shields.io/badge/Taipy-red?style=for-the-badge) |   
-| Others| ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![NetworkX Badge](https://img.shields.io/badge/NetworkX-orange?style=for-the-badge)
- |
+| Others| ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![NetworkX Badge](https://img.shields.io/badge/NetworkX-orange?style=for-the-badge)|
 
 ### Databases
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
