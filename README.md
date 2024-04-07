@@ -128,7 +128,7 @@ If you want to contact me, here are all my social accounts:
 
 [![All My links Badge](https://img.shields.io/badge/allmylinks-Check%20All%20My%20Other%20Accounts-20B2AA?style=for-the-badge)](https://allmylinks.com/eric-narro-data#)
 
-If you want to support my work, you can follow me on Medium or on youTube:
+If you want to support my work, you can follow me on Medium or on YouTube:
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ericnarro.medium.com/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC07kLi3VjY_J9bV3TRs26Ig)
