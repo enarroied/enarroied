@@ -10,7 +10,18 @@
 
 [![promo banner for Getting Started with Taipy](getting_started_with_taipy_promo.jpg)](https://www.amazon.co.uk/dp/1836203810)
 
-As a full-stack analyst, I bring can take care of every stage of the data cycle with both technical rigor and focus on stakeholders and business needs. I design and deploy scalable pipelines through batch processing or real-time data ingestion. I also build intuitive and interactive data applications using frameworks such as Taipy.
+- [A Few Things About Me](#a-few-things-about-me)
+- [Some of my Skills](#some-of-my-skills)
+  - [Programming Languages](#programming-languages)
+    - [Python Libraries and Frameworks](#python-libraries-and-frameworks)
+  - [Databases](#databases)
+  - [Analytical Toolbox](#analytical-toolbox)
+  - [Cloud, DevOps, and Infrastructure](#cloud-devops-and-infrastructure)
+  - [LLM Stack and AI](#llm-stack-and-ai)
+- [Stats](#stats)
+- [Support and Contact](#support-and-contact)
+
+As a full-stack analyst, I take care of every stage of the data cycle with both technical rigor and focus on stakeholders and business needs. I design and deploy scalable pipelines through batch processing or real-time data ingestion. I also build intuitive and interactive data applications using frameworks such as Taipy.
 
 Beyond engineering and visualization, I emphasize best practices in version control and CI/CD to ensure that workflows are collaborative, maintainable, and production-ready. I also place strong focus on documentation and technical writing, making complex processes and methodologies accessible to both technical and non-technical stakeholders.
 
@@ -26,11 +37,11 @@ Beyond engineering and visualization, I emphasize best practices in version cont
 
 🎥 You can also check my [YouTube channel](https://www.youtube.com/@ericnarro), I wish to create more content there, so feel free to take a look at it (and **like, and subscribe!**)
 
-💻 I'm a **contributor to [Taipy](https://github.com/Avaiga/taipy)**, an **open-source** Python application builder. I wrote a book it and contributed with numerous 20+ issues.
+💻 I'm a **contributor to [Taipy](https://github.com/Avaiga/taipy)**, an **open-source** Python application builder. I wrote a book about it and contributed with 20+ issues.
 
-⛰️ I'm a **remote worker**, and **I live in rural France**. I've always wanted to live in rural areas, that is why studied wine-making in the first place. I believe remote work is one part of the solution to bring life back to rural Europe. Obviously, the solution is complex and will require **lots of human action**, remote workers can't be THE solution, just another brick in the wall. If this is something that resonates with you, feel free to connect with me!
+⛰️ I'm a **remote worker**, and **I live in rural France**. I've always wanted to live in rural areas, that is why I studied wine-making in the first place. I believe remote work is one part of the solution to bring life back to rural Europe. Obviously, the solution is complex and will require **lots of human action**, remote workers can't be THE solution, just another brick in the wall. If this is something that resonates with you, feel free to connect with me!
 
-📸 Besides technology, [I love photography](https://www.deviantart.com/ericnarro) and exploring new places, especially rural areas (but I also like exploring cities, as long as I don't spend too much time in them!)
+📸 Besides technology, [I love photography](https://www.deviantart.com/ericnarro) and exploring new places, especially rural areas (but I also like exploring cities, as long as I don't spend too much time in them!), those are my two main hobbies, and I combine them by taking pictures of the places I visit.
 
 ## Some of my Skills
 
